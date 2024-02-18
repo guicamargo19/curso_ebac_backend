@@ -1,42 +1,13 @@
-# Python Concurrency
-Python Concurrency For Reference
+# Scripts e materiais do Módulo de Python Avançado
 
-### Getting Started
-The goal of this repository is to show what python offers to handle concurrency and multi-processing.
+Curso de Full Stack Python da EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
-Following these instructions will make this project running in your local machine development.
+## 🛠️Ferramentas utilizadas para construção do projeto
 
-### Prerequisites
+* **Python** - linguagemde alto nível, interpretada de script, orientada a objetos, funcional, de tipagem dinâmica e forte.
+* **BealtifulSoap** - Biblioteca Python para puxar dados de HTML e XML files.
+* **Requests** - Biblioteca cliente HTTP para Python.
 
-```
-- python3
-- virtualenv
-```
+## ✒️ Autor
 
-### To run
-
-If your OS is Linux or Mac
-
-```
-make install
-```
-
-Or in case that you use Windows
-
-```
-virtualenv env
-env\Scripts\activate.bat
-pip install -r requirements.txt
-```
-
-### Running tests
-
-```
-make test
-```
-
-or 
-
-```
-pytest
-```
+Guilherme Ferreira Camargo
